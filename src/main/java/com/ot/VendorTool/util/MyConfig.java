@@ -34,4 +34,5 @@ public class MyConfig {
 		return new Docket(DocumentationType.SWAGGER_2).select().apis(RequestHandlerSelectors.basePackage("com.ot.VendorTool"))
 				.build().apiInfo(apiInfo).useDefaultResponseMessages(false);
 	}
+
 }
