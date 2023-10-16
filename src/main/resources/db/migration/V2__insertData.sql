@@ -1,0 +1,1 @@
+INSERT INTO User(userName,email,phone,password,role,otp,uuid) VALUES("Tasmiya","tasmiyaNaaz@gamil.com","8624002058","tas@123","ROLE_ADMIN",1234,"abc");
